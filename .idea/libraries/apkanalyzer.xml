@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="apkanalyzer">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/apkanalyzer.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
