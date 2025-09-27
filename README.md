@@ -1,4 +1,6 @@
 # ManifestAnalyzer
+本工程意图打印出Android Apk中AndroidManifest.xml,resizeableActivity="false"且screenOrientation="portrait"或"landscape"的Activity.
+
 1.下载cmdline-tools，配置APKANALYZER_CMD;
 
 2.下载dom4j-2.1.4.jar,放在libs目录,add as a library;
